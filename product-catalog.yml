@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    product-catalog:
+      url: jdbc:mysql://localhost:3306/product_catalog
+      username: root
+      password: admin
